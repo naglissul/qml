@@ -11,4 +11,14 @@ Stopped at the forward propagation, cuz seemed too much of code to understand th
 
 Now gonna learn separated parts of this. Starting with Gradient descent and Stochastic gradient descent.
 
+## 2024-07-06
+
 ### Gradient descent
+
+Basically finding local minimum by going the direction of negative derivative (gradient)
+
+### In general
+
+AI > ML > DL
+
+Supervised and unsupervised learning.
