@@ -22,3 +22,14 @@ Basically finding local minimum by going the direction of negative derivative (g
 AI > ML > DL
 
 Supervised and unsupervised learning.
+
+## 2024-07-11
+
+Linear classification, perceptron neuron (linear classifier), only feed-forward...
+
+### Learning XOR - non-linear classification with backpropagation.
+
+Input Layer | Hidden Layer | Output Layer\\
+(2 neurons) | (2 neurons) | (1 neuron)
+
+[scripts/xor/](scripts/xor/)

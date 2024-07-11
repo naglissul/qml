@@ -1,0 +1,18 @@
+digraph {
+	X1 [label="Input 1"]
+	X2 [label="Input 2"]
+	H1 [label="Hidden 1"]
+	H2 [label="Hidden 2"]
+	Y [label=Output]
+	X1 -> H1 [label="w1: 3.79"]
+	X1 -> H2 [label="w2: 5.82"]
+	X2 -> H1 [label="w3: 3.80"]
+	X2 -> H2 [label="w4: 5.85"]
+	bias -> H1 [label="b1: -5.82"]
+	bias -> H2 [label="b2: -2.46"]
+	bias [label=1 shape=point]
+	H1 -> Y [label="w5: -8.32"]
+	H2 -> Y [label="w6: 7.66"]
+	bias_output -> Y [label="b3: -3.46"]
+	bias_output [label=1 shape=point]
+}
