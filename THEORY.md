@@ -33,3 +33,14 @@ Input Layer | Hidden Layer | Output Layer\\
 (2 neurons) | (2 neurons) | (1 neuron)
 
 [scripts/xor/](scripts/xor/)
+
+## 2024-07-14
+
+Finishing XOR and understanding it...
+
+Already has a simulator...
+https://www.mladdict.com/neural-network-simulator
+
+## 2024-07-15
+
+[Building XOR on my own](scripts/myXor/)

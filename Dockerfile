@@ -8,7 +8,7 @@ WORKDIR /scripts
 COPY scripts /scripts
 
 # Install numpy and matplotlib
-RUN pip install numpy matplotlib
+RUN pip install numpy matplotlib networkx
 
 # Set the command to open a terminal
 CMD ["bash"]
