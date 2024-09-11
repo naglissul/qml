@@ -1,4 +1,4 @@
-# Theory in chronological learning order
+# Theory in chronological learning order ARCHIVED
 
 ## 2024-07-03
 
