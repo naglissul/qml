@@ -8,7 +8,7 @@ WORKDIR /scripts
 COPY scripts /scripts
 
 # Install numpy and matplotlib
-RUN pip install numpy qiskit qiskit-ibm-runtime qiskit[visualization] jupyter qiskit-aer
+RUN pip install numpy matplotlib networkx
 
 # Set the command to open a terminal
 CMD ["bash"]
