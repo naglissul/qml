@@ -8,7 +8,8 @@ Repository for self learning QC and QML to prepare for bachelor thesis and/or in
 
 - Python
 - Qiskit
-- Jupyter notebook
+
+HSI classification: spectral scikit-learn numpy
 
 ## Content
 
@@ -16,9 +17,17 @@ Resources: [Quantum Soar channel on YouTube](https://www.youtube.com/@quantum-so
 
 Cheatsheet: [LaTex](./QuantumSoar-cheatsheet.tex) and [PDF](./QuantumSoar-cheatsheet.pdf)
 
+HSI examples from Harvard: https://vision.seas.harvard.edu/hyperspec/download.html
+
+HSI from gov: https://earthexplorer.usgs.gov/
+
+https://github.com/spectralpython/sample-data/
+
+http://www.spectralpython.net/index.html
+
 ## Coding setup
 
-Install python or run on docker:
+Install python with packages mentioned in Dockerfile or run on docker:
 
 ```bash
 docker build -t python-container .

@@ -8,7 +8,8 @@ WORKDIR /scripts
 COPY scripts /scripts
 
 # Install numpy and matplotlib
-RUN pip install numpy qiskit qiskit-ibm-runtime qiskit[visualization] jupyter qiskit-aer
+RUN pip install numpy qiskit qiskit-ibm-runtime qiskit[visualization] qiskit-aer
+RUN pip install matplotlib spectral
 
 # Set the command to open a terminal
 CMD ["bash"]
