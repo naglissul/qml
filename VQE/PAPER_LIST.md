@@ -19,3 +19,9 @@ A circuit to build $LiH$ ground state.
 [Demonstration of small programmable quantum computer with atomic qubits](https://arxiv.org/pdf/1603.04512)
 
 The first programmable q-computer of 5 qubits, implementation of Deutsch-Joshua algorithm.
+
+---
+
+Papers of VQE implementation to try out...
+
+https://arxiv.org/pdf/2305.06538

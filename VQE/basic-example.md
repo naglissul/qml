@@ -1,5 +1,7 @@
 ### Simplified Molecular Hamiltonian for H₂ (Hydrogen Molecule)
 
+> This is a straight up copy from ChatGPT. NOT RELIABLE.
+
 The **hydrogen molecule (H₂)** is the simplest molecule, and its electronic structure can be approximated using a Hamiltonian involving **two qubits**.
 
 A simplified version of the Hamiltonian for H₂ in the STO-3G basis (a minimal basis set) can be expressed as:

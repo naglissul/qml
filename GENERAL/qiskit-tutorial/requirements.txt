@@ -1,5 +1,6 @@
-qiskit
 matplotlib
+numpy
+qiskit
 qiskit_ibm_runtime
 pylatexenc
 qiskit_aer

@@ -110,9 +110,17 @@ e.g.: $e^{=iHt} = e^{-iZ_1Z_2t}e^{-iX_1t}$
 
 ### Trotter term implementation
 
-One qubit ($X$): $R_x(2t)|\psi\rangle$
+One qubit ($X$):
 
-Two qubit diagonal needs entanglement ($Z_1Z_2$): $CZ(R_2(-2t) \otimes I)CZ(|q_1\rangle \otimes |q_2\rangle)$
+$$
+R_x(2t)|\psi\rangle
+$$
+
+Two qubit diagonal needs entanglement ($Z_1Z_2$):
+
+$$
+CZ\;(R_2(-2t) \otimes I)\;CZ\;(|q_1\rangle \otimes |q_2\rangle)
+$$
 
 ### Ising Hamiltonian
 
@@ -120,4 +128,4 @@ describes a system of interacting spins in a magnetic field:
 
 $$H = \sum_{i<j} J_{ij}Z_iZ_j + \sum_i h_iX_i$$
 
-$[H_1, H_2] \neq 0$, i.e. $H_1$ and $H_2$ don't commute. Therefore we need Trotter-Suzuki.
+$[H_1, H_2] \neq 0$, i.e. $H_1$ and $H_2$ don't commute. Therefore we need Trotter-Suzuki (?).
