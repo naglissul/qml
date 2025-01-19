@@ -1,0 +1,6 @@
+qiskit-nature # will also install qiskit, numpy
+pyscf
+matplotlib
+qiskit-ibm-runtime
+pylatexenc
+qiskit-aer
