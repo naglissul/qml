@@ -48,3 +48,26 @@ Quite extensive.
 [Evidence for the utility of quantum computing before fault tolerance (2023)](https://www.nature.com/articles/s41586-023-06096-3)
 
 From qiskit tutorial. This goes through TRANSVERSE FIELD ISING MODEL of quantum computing.
+
+## REMEMBER THESE (read again)
+
+(1)
+[Ising model from qiskit tutorial](https://www.nature.com/articles/s41586-023-06096-3)
+
+(2)
+[Paper explaining basics and how hamiltonian is found](https://arxiv.org/pdf/2305.06538)
+
+
+## More papers on trying to set the thesis scope
+
+[Algorithm 778: L-BFGS-B: Fortran subroutines for large-scale bound-constrained optimization](https://dl.acm.org/doi/10.1145/279232.279236)
+
+Mentioned in qiskit VQE built-in implementation:
+
+[A variational eigenvalue solver on a quantum processor (2013)](https://arxiv.org/abs/1304.3061)
+
+[(H2 ground state) The Two Electron Molecular Bond Revisited: From Bohr Orbits to Two-Center Orbitals. Advances In Atomic, Molecular, and Optical Physics. (2005) ](https://www.researchgate.net/figure/Ground-state-ER-of-H2-molecule-calculated-by-the-self-consistent-Hartree-Fock-method_fig10_222707765)
+
+[Finding Ground State Energy of Molecules with Variational Quantum Eigensolver(2019)](https://cs269q.stanford.edu/projects2019/KangLeeVQE_Y.pdf) // H2, LiH, BeH2
+
+[Exploring the scaling limitations of the variational quantum eigensolver with the bond dissociation of hydride diatomic molecules](https://onlinelibrary.wiley.com/doi/10.1002/qua.27097) // Limitations with TiH and other hydrates

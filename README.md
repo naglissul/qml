@@ -8,11 +8,12 @@
 
 Repo has a lot of unsuccessful try outs. This is the list that has fully functional code and is worth checking out:
 
-1. [My own code](GENERAL/qiskit-tryouts/running-basic-circuit.ipynb)
+1. [Basic circuit on hardware (my own code)](GENERAL/qiskit-tryouts/running-basic-circuit.ipynb)
 2. [Qiskit tutorial 1](GENERAL/qiskit-tutorial/3-hello-tuto.ipynb)
 3. [Qiskit tutorial 2](GENERAL/qiskit-tutorial/4-primitives.ipynb)
 4. [Qiskit tutorial 3](GENERAL/qiskit-tutorial/5-dynamic-circuits.ipynb)
 5. [VQE of H2 on simulator](VQE/7-qiskit-nature-example.ipynb)
+6. IN_PROGRESS...
 
 For setup install python libraries from [requirements.txt](requirements.txt):
 

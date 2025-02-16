@@ -70,7 +70,7 @@ $\therefore Z = |0\rangle\langle0|-|1\rangle\langle1|$
 
 ## Density matrix
 
-Pure or mized state...
+Pure or mixed state...
 
 $\rho = \sum_i p_i |\psi_i\rangle\langle\psi_i|$
 
@@ -169,3 +169,6 @@ $$
 = \frac{1}{\sqrt2}\ket{+i,+i} + \frac{1}{\sqrt2}\ket{-i,-i} = \frac{1}{\sqrt2}(\frac{1}{\sqrt2}\ket{00}+\frac{i}{\sqrt2}\ket{10}+\frac{i}{\sqrt2}\ket{01}-\frac{1}{\sqrt2}\ket{11}) + \frac{1}{\sqrt2}(\frac{1}{\sqrt2}\ket{00}-\frac{i}{\sqrt2}\ket{10}-\frac{i}{\sqrt2}\ket{01}-\frac{1}{\sqrt2}\ket{11}) \text{  on YY basis}\\
 = \frac{1}{\sqrt2}\ket{+-} + \frac{1}{\sqrt2}\ket{-+} = \frac{1}{\sqrt2}(\frac{1}{\sqrt2}\ket{00}+\frac{1}{\sqrt2}\ket{10}-\frac{1}{\sqrt2}\ket{01}-\frac{1}{\sqrt2}\ket{11}) + \frac{1}{\sqrt2}(\frac{1}{\sqrt2}\ket{00}-\frac{1}{\sqrt2}\ket{10}+\frac{1}{\sqrt2}\ket{01}-\frac{1}{\sqrt2}\ket{11}) \text{  on XX basis}
 $$
+
+# Trying to set the thesis scope
+
