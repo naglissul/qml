@@ -8,7 +8,7 @@
 
 Repo has a lot of unsuccessful try outs. This is the list that has fully functional code and is worth checking out:
 
-1. [Basic circuit on hardware (my own code)](GENERAL/qiskit-tryouts/running-basic-circuit.ipynb)
+1. [Basic circuit on hardware (my own code)](GENERAL/qiskit-tryouts/RUNNING_BASIC_CIRCUIT.ipynb)
 2. [Qiskit tutorial 1](GENERAL/qiskit-tutorial/3-hello-tuto.ipynb)
 3. [Qiskit tutorial 2](GENERAL/qiskit-tutorial/4-primitives.ipynb)
 4. [Qiskit tutorial 3](GENERAL/qiskit-tutorial/5-dynamic-circuits.ipynb)

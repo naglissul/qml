@@ -1,0 +1,3 @@
+# QC Youtube tutorial No. 2
+
+> Physical implementation...

@@ -30,3 +30,31 @@ Outcome would be a table: columns - running environment; rows - molecules x theo
 - Another few testing the theoretical analysis outcomes if they are correct on one/afew computers, measuring speedups and seeing how they align with the theory.
 
 For analysis/comparison: theoretical complexities; speedup, circuit depth, accuracy.
+
+Gate fidelity.
+
+Noisy q-hardware, noiseless simulator.
+
+convergence speed, execution time (speedup), number of iterations, circuit depth, energy accuracy.
+
+REVIEW:
+
+vienas asmenis keli acc. Grupiokas acc.
+
+objectives: palyginti su tuo, kas jau pasiekta. prapl4sti. pvz 4 punktas: kaip runninsiu benchmarkus (2-3 sak.). 5. kokie limitation kriterijai, kaip vertinsiu.
+
+Plačiau aprašyti outcomus (kaip patikrinti, ar jis tikrai gavosi). nesuprantančiam dar parašyt paragrafą, kas čia, kaip ta analizė bus, koks tas išsamumas. Kriterijus prie kiekvieno punkto, ar pasiekia outcome.
+
+Apie kiekviena objectives, apie outcoma kiekvienas po 2-3 sak.
+
+IKELTI ANT VIRSAUS PATAISYMUS.
+
+---
+
+# Official plan
+
+# Actual plan
+
+1. Run VQE on quantum hardware (just get ans)
+2. Read about metrics
+3. Read about other successful runs.

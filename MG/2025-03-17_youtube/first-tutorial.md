@@ -1,4 +1,6 @@
-# The Science Guild FRANCE-2
+# QC YouTube tutorial No. 1
+
+> Basics and algos
 
 ---
 
@@ -89,3 +91,4 @@ Papers: ...
 # Chapter 2: Algorithms.
 
 ...
+up to shor... all those popular ones...
