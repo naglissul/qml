@@ -4,3 +4,5 @@ matplotlib
 qiskit-ibm-runtime
 pylatexenc
 qiskit-aer
+networkx
+qiskit-optimization
