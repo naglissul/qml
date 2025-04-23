@@ -53,6 +53,14 @@ IKELTI ANT VIRSAUS PATAISYMUS.
 
 # Official plan
 
+\begin{enumerate}
+\item (21 March 2025) Conduct literature analysis on the whole VQE algorithm process and variations, finding recommendations on what ansätze, classical optimizer, second quantization methods.
+\item (4 April 2025) Conduct literature analysis, determining which molecules, how and on what quantum and classical hardware can be tested. What is the performance of VQE on different molecule data input, as of today, what are the perceived possibilities on implementing this algorithm in computational chemistry, what are the limitations.
+\item (18 April 2025) Test theoretical literature analysis outcome on quantum hardware, comparing the results.
+\item (2 May 2025) Conduct empirical experiment with selected molecule data on selected devices.
+\item (16 May 2025) Performing analysis on empirical data, yielding conclusions on current possibilities and limitations.
+\end{enumerate}
+
 # Actual plan
 
 1. Run VQE on quantum hardware (just get ans)
