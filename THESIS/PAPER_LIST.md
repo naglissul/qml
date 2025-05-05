@@ -2,6 +2,9 @@
 
 [A variational eigenvalue solver on a quantum processor (2013)](https://arxiv.org/pdf/1304.3061)
 
+A variational eigenvalue solver on a photonic
+quantum processor
+
 ---
 
 https://qiskit-community.github.io/qiskit-algorithms/stubs/qiskit_algorithms.VQE.html
@@ -122,7 +125,7 @@ Interesting, not out of scope...
 
 [Notes from my phone](./bakio-notes.pdf)
 
-# Other random
+# Other random. Ansatz
 
 [Correlation-Informed Permutation of Qubits for Reducing Ansatz Depth in the Variational Quantum Eigensolver (2021)](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.2.020337)
 

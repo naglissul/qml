@@ -124,3 +124,9 @@ Also pennylane zvilgtelt del naujienu
 Also petkevicius atsius pavyzdyni baki
 
 also iki pirmadienio tureti rezultatu grafiku ir ansatz palyginimo, ir aprasyti.
+
+/////
+
+pro versija overleaf su UNI.
+
+Palyginimui kuris geresnits ansatz ar kiti parametrai...
